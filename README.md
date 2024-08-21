@@ -12,7 +12,7 @@ A equipe responsável pelo desenvolvimento deste projeto é composta por:
   
 
 ## Backlog do Produto
-O Backlog do Produto contém todas as funcionalidades, requisitos e melhorias planejadas para o sistema de gerenciamento da fazenda urbana. Está disponível [aqui}(https://github.com/rafaelreis8000/Projeto_Cidade_verde/blob/main/Backlog/PDF%20Backlog.pdf).
+O Backlog do Produto contém todas as funcionalidades, requisitos e melhorias planejadas para o sistema de gerenciamento da fazenda urbana. Está disponível [aqui](https://github.com/rafaelreis8000/Projeto_Cidade_verde/blob/main/Backlog/PDF%20Backlog.pdf).
 
 ## Sprint
    Para visualizar todas as pastas das Sprints [Clique aqui](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/BackLog/Sprints)
