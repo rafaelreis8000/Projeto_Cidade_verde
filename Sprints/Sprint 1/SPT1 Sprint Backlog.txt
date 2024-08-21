@@ -1,0 +1,6 @@
+Sprint 1: Levantamento de Requisitos e Identificação de Entidades
+
+Tarefas:
+Revisar os requisitos funcionais e não funcionais para compreensão completa do sistema.
+Identificar as principais entidades do sistema, como Usuário, Cultura, Plantio, Irrigação, Crescimento de Plantas, Pragas e Doenças, Colheita e Estoque de Insumos Agrícolas.
+Definir os atributos iniciais de cada entidade com base nos requisitos funcionais.

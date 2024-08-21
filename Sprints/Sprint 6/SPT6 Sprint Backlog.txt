@@ -1,0 +1,6 @@
+Sprint 6: Construção de Diagrama de Atividades (Parte 2) e Validação do Modelo UML
+
+Tarefas:
+Continuar o desenvolvimento do diagrama de atividades para os processos restantes.
+Revisar o modelo UML como um todo para garantir consistência e integridade.
+Validar o modelo UML em relação aos requisitos funcionais e não funcionais do sistema.

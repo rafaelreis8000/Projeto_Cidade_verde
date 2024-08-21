@@ -1,0 +1,6 @@
+Sprint 2: Estabelecimento de Relacionamentos e Identificação de Casos de Uso
+
+Tarefas:
+Estabelecer os relacionamentos entre as entidades identificadas.
+Identificar os principais casos de uso do sistema com base nos requisitos funcionais.
+Priorizar os casos de uso de acordo com a importância para o sistema.

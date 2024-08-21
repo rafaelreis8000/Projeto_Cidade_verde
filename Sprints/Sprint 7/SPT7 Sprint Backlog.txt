@@ -1,0 +1,6 @@
+Sprint 7: Documentação do Modelo e Revisão Final
+
+Tarefas:
+Documentar o modelo UML, incluindo descrições detalhadas de cada elemento e relacionamento.
+Elaborar manuais de usuário e guias de desenvolvimento com base no modelo.
+Realizar uma revisão final do modelo UML e da documentação para garantir qualidade e completude.

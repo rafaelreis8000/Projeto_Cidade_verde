@@ -1,0 +1,6 @@
+Sprint 3: Elaboração de Diagrama de Casos de Uso
+
+Tarefas:
+Desenvolver o diagrama de casos de uso para representar as interações entre os atores e o sistema.
+Identificar os atores do sistema e as funcionalidades que cada um pode realizar.
+Refinar o diagrama de casos de uso com base em feedbacks e revisões.

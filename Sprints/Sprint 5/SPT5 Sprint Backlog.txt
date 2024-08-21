@@ -1,0 +1,6 @@
+Sprint 5: Desenvolvimento de Diagrama de Sequência (Parte 2) e Construção de Diagrama de Atividades (Parte 1)
+
+Tarefas:
+Continuar o desenvolvimento dos diagramas de sequência para os casos de uso restantes.
+Identificar os principais processos ou fluxos de trabalho do sistema para o diagrama de atividades.
+Criar o início do diagrama de atividades para representar os processos identificados.
