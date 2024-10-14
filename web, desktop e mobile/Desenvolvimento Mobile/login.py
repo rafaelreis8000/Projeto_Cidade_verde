@@ -8,7 +8,6 @@ class Login:
         self.page.title = "Login App"
         self.page.vertical_alignment = ft.MainAxisAlignment.CENTER
         self.page.window_width =  300
-        self.page.bgimage("C:\Users\master\Documents\GitHub\Projeto_Cidade_verde\web, desktop e mobile\Ícones e vetores\logo\logo\logo")
 
         # Campos de login
         self.username = ft.TextField(label="Usuário", width=300)
