@@ -23,7 +23,10 @@ def main(page: ft.Page):
     )
 
     #adiciona os elementos para aparecerem na tela
-    page.add (txt_titulo, email, senha, btn_container_login,)
+    page.add (txt_titulo, 
+              email, 
+              senha, 
+              btn_container_login,)
 
 #Inicializa um aplicativo que roda a interface main
 ft.app(target=main)
