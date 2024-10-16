@@ -1,4 +1,6 @@
 import flet as ft
+
+#importa o arquivo de rotas
 from app.rotas import registro_rotas
 
 
