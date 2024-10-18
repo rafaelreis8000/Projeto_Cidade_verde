@@ -23,6 +23,21 @@ def home(page: ft.Page):
                     ),
 
                 #criação dos botões
+
+                ft.Container(
+                    alignment= ft.alignment.bottom_center,
+                    content= ft.Text ("Dashboard", size= 12),
+                    width= 400,
+                    height= 103,
+                    bgcolor= "#2A383E",
+                    border=ft.border.all(4, "#222D32"),
+                    border_radius=ft.border_radius.all(10),
+                    padding= 10,
+                    margin= 20,
+                    on_click=lambda _: page.go("/Dashboard"),
+
+                ),
+
                 ft.Container(
                     alignment= ft.alignment.bottom_center,
                     content= ft.Text ("Gestão Agrícola", size= 12),
@@ -38,7 +53,7 @@ def home(page: ft.Page):
                 ),
 
                 ft.Container(
-                    alignment= ft.alignment.center,
+                    alignment= ft.alignment.bottom_center,
                     content= ft.Text ("Gestão Insumos", size= 12),
                     width= 103,
                     height= 103,
@@ -47,6 +62,7 @@ def home(page: ft.Page):
                     border_radius=ft.border_radius.all(10),
                     padding= 10,
                     margin= 20,
+                    on_click=lambda _: page.go("/g_Insumos"),
                 ),
 
             ]
