@@ -7,6 +7,7 @@ def login(page: ft.Page):
         expand= True,
         bgcolor= "#1D3331",
         alignment= ft.alignment.center,
+        
         content= ft.Column(
             controls= [
 
@@ -14,14 +15,23 @@ def login(page: ft.Page):
                     alignment= ft.alignment.top_center,
                     content= ft.Text("FAÇA SEU LOGIN:", size= 40)
                 ),
+                    ft.Container( 
+                        content= ft.TextField(label= "Insira seu E-mail: "),
+                        margin= 20,
+                    ),
 
-                    ft.TextField(label="Insira seu E-mail: "),
-                    ft.TextField(label= "Insira sua senha: "),
+                    ft.Container( 
+                        content= ft.TextField(label= "Insira sua Senha: "),
+                        margin= 20,
+                    ),
+                    #ft.TextField(label="Insira seu E-mail: ",),
+                    #ft.TextField(label= "Insira sua senha: ",),
                 
                         #um container somente para o botão login, com alinhamento diferente
                         ft.Container(
                             alignment= ft.alignment.center_right,
-                            content= ft.ElevatedButton("LOGIN", on_click=lambda _: page.go("/home"))
+                            content= ft.ElevatedButton("LOGIN", on_click=lambda _: page.go("/home")),
+                            margin= 20
                         ),
 
             ]
