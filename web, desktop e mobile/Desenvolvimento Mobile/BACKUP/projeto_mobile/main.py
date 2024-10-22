@@ -11,7 +11,7 @@ def main(page: ft.Page):
     registro_rotas(page)
     page.window_width = 412
     page.window_height = 917
-    page.window_bgcolor = "#1D3331"
+
     #manda ir para o endereço de rota /
     page.go("/")
     page.update
